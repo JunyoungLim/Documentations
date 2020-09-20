@@ -69,3 +69,5 @@ For this assignment the commands are:
     ```
     
  9. The `easytrace` repo is available at `/easytrace` once you ssh into the machine.
+
+https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274
