@@ -1,6 +1,6 @@
 # GitHub Guide
 
-### Git Credentials
+## Git Credentials
 
 Two factor authentication enabled, use PAT (personal access tokens).
 ### How to generate PAT
