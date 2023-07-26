@@ -13,3 +13,8 @@ Update
 npm ls -g --depth=0.
 npm update -g
 ```
+
+Install AWS Amplify with:
+```bash
+npm install -g @aws-amplify/cli
+```
