@@ -18,3 +18,14 @@ Install AWS Amplify with:
 ```bash
 npm install -g @aws-amplify/cli
 ```
+
+### Resolving package deps
+```bash
+ncu
+```
+or
+```bash
+npm-check-updates
+```
+
+Then `ncu - u` to upgrade `package.json` then `npm i` to install the updated packages.
